@@ -311,7 +311,7 @@ export const socials = [
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "https://www.instagram.com/ur_faizz13/",
+    url: "#",
   },
   {
     id: "3",
